@@ -1,0 +1,28 @@
+body {}
+	
+	div {
+		font:Times, serif;
+		margin: bottom:50px;
+}
+
+.row{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.headlinediv {
+	
+	font: bold 25px Times, serif;
+	margin-bottom: 25px; 
+}
+
+
+.textdiv {
+	margin-bottom: 20px; 
+}
+
+p.text {
+	
+	font: 15px Times, serif;
+
+}
