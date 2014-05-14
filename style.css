@@ -26,3 +26,13 @@ p.text {
 	font: 15px Times, serif;
 
 }
+
+.captiondiv
+{
+	       float:right;
+	
+}
+p.caption {
+        font: italic 15px Times, serif;
+ 
+    }
